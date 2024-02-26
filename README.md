@@ -1,13 +1,13 @@
 [![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)](https://1neha23.github.io/)
 <h1 align="center">Hi 👋, I'm Neha Yadav</h1>
-<h3 align="center">A Passionate Full Stack Java Developer From India</h3>
+<h3 align="center">A Passionate Full Stack Java Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1neha23&label=Profile%20views&color=0e75b6&style=flat" alt="1neha23" /> </p>
 
 - 🔭 I’m currently working on [Google Docs Clone](https://github.com/1Neha23/GoogleDocs-Clone)
 
-- 🌱 I’m currently learning **Advanced SpringBoot, Docker, Kubernetes**
+- 🌱 I’m currently learning **SpringBoot , Spring MVC, Spring Data JPA, Hibernate, RestFul API, Docker, Kubernetes**
 
 - 👯 I’m looking to collaborate on [Google Docs Clone](https://github.com/1Neha23/GoogleDocs-Clone)
 
