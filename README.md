@@ -3,7 +3,8 @@
 <h3 align="center">A Passionate Full Stack Java Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1neha23&label=Profile%20views&color=0e75b6&style=flat" alt="1neha23" /> </p>
+<p align="left"> <img src="https://www.bing.com/images/search?view=detailV2&ccid=yZ41P3Yd&id=F127891DD4C67C85CFBA5571A18ABB7CC9BD18B5&thid=OIP.yZ41P3YdMYMiyFPAPrzyGwHaED&mediaurl=https%3a%2f%2fengineering.giphy.com%2fwp-content%2fuploads%2f2017%2f06%2fapi.gif&exph=592&expw=1080&q=github+portfolio+animated+gif&simid=608045384164320103&FORM=IRPRST&ck=E5604BBAB126A31FC1C3954EA434D377&selectedIndex=12&itb=0&qpvt=github+portfolio+animated+gif&ajaxhist=0&ajaxserp=0" 
+                    /> </p>
 
 - 🔭 I’m currently working on [Google Docs Clone](https://github.com/1Neha23/GoogleDocs-Clone)
 
