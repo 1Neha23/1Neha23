@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1neha23&label=Profile%20views&color=0e75b6&style=flat" alt="1neha23"
                     /> </p>
 
-- 🔭 I’m currently working on [Google Docs Clone](https://github.com/1Neha23/GoogleDocs-Clone)
+- 🔭 I’m currently working on [Blog Application - Tech-Talent Network ](https://github.com/1Neha23/TechTalent-Network)
 
 - 🌱 I’m currently working on <br> **
 <ul>
@@ -65,7 +65,8 @@
 
     
 
-- 👯 I’m looking to collaborate on [Google Docs Clone](https://github.com/1Neha23/GoogleDocs-Clone)
+- 👯 I’m looking to collaborate on [Google Docs Clone](https://github.com/1Neha23/GoogleDocs-Clone & [Blog Application - Tech-Talent Network ](https://github.com/1Neha23/TechTalent-Network)
+
 
 - 🤝 I’m looking for help with [Google Docs Clone](https://github.com/1Neha23/GoogleDocs-Clone)
 
@@ -75,7 +76,7 @@
 
 - 📫 How to reach me **nehayadav262001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11Mkx3Si78XMYirUtPojY0ZVFMVOBbWel/view](https://drive.google.com/file/d/11Mkx3Si78XMYirUtPojY0ZVFMVOBbWel/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_su0nudWhFL0Sldgd4wuYS1wRzoIWmGi/view?usp=sharing](https://drive.google.com/file/d/1_su0nudWhFL0Sldgd4wuYS1wRzoIWmGi/view?usp=sharing)
 
 - ⚡ Fun fact **I once debugged a particularly tricky code issue by dreaming about it – and woke up with the solution!**
 
