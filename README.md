@@ -13,15 +13,22 @@
 • Core Java/J2EE ( Java8 )
 <br>
 •🎯 Frameworks & Libraries
+<br>
 • Frontend - HTML5 ,React Js, CSS , Bootstrap , Materalize
 CSS , Material UI
+<br>
 • Backend - Spring , SpringBoot , Spring MVC , SpringDataJpa
 , Restful API , Hibernate , MicroServices , Design Pattern ,
 java Collections , Multithreading , Servlet , AWS
+<br>
 • 🎯 Database - SQL , Mysql , Oracle , PostgreSQL
+<br>
 • 🎯 Tools - Maven, Git , STS , PostMan , Tomcat Server , CI/CD
+<br>
 • Course Work
-• OOPS , RDBMS  **
+• OOPS , RDBMS
+<br>
+**
 
 - 👯 I’m looking to collaborate on [Google Docs Clone](https://github.com/1Neha23/GoogleDocs-Clone)
 
