@@ -9,40 +9,12 @@
 - 🔭 I’m currently working on [Google Docs Clone](https://github.com/1Neha23/GoogleDocs-Clone)
 
 - 🌱 I’m currently working on <br> **
-- 🎯 Programming Languages
- 📌 Core Java/J2EE ( Java8 )
-<br>
-•🎯 Frameworks & Libraries
-<br>
-📌 Frontend -
-<br>HTML5 ,React Js, CSS , Bootstrap , Materalize
-CSS , Material UI
-<br>
-📌 Backend -
-<br>Spring , SpringBoot , Spring MVC , SpringDataJpa
-, Restful API , Hibernate , MicroServices , Design Pattern ,
-java Collections , Multithreading , Servlet , AWS
-<br>
-• 🎯 Database -
-<br>
-SQL , Mysql , Oracle , PostgreSQL
-<br>
-• 🎯 Tools -
-<br>
-Maven, Git , STS , PostMan , Tomcat Server , CI/CD
-<br>
-• 🎯 Course Work
-<br>
- 📌 OOPS , RDBMS
-<br>
-
-**
 <ul>
-        <li>Programming Languages</li>
+        <li>🎯Programming Languages</li>
         <li>Core Java/J2EE (Java8)</li>
-        <li>Frameworks & Libraries</li>
+        <li>🎯Frameworks & Libraries</li>
         <ul>
-            <li>Frontend</li>
+            <li>📌Frontend</li>
             <ul>
                 <li>HTML5</li>
                 <li>React Js</li>
@@ -51,7 +23,7 @@ Maven, Git , STS , PostMan , Tomcat Server , CI/CD
                 <li>Materialize CSS</li>
                 <li>Material UI</li>
             </ul>
-            <li>Backend</li>
+            <li>📌Backend</li>
             <ul>
                 <li>Spring</li>
                 <li>SpringBoot</li>
@@ -67,14 +39,14 @@ Maven, Git , STS , PostMan , Tomcat Server , CI/CD
                 <li>AWS</li>
             </ul>
         </ul>
-        <li>Database</li>
+        <li>🎯Database</li>
         <ul>
             <li>SQL</li>
             <li>MySQL</li>
             <li>Oracle</li>
             <li>PostgreSQL</li>
         </ul>
-        <li>Tools</li>
+        <li>🎯Tools</li>
         <ul>
             <li>Maven</li>
             <li>Git</li>
@@ -83,12 +55,15 @@ Maven, Git , STS , PostMan , Tomcat Server , CI/CD
             <li>Tomcat Server</li>
             <li>CI/CD</li>
         </ul>
-        <li>Course Work</li>
+        <li>🎯Course Work</li>
         <ul>
             <li>OOPS (Object-Oriented Programming)</li>
             <li>RDBMS (Relational Database Management System)</li>
         </ul>
     </ul>
+    **
+
+    
 
 - 👯 I’m looking to collaborate on [Google Docs Clone](https://github.com/1Neha23/GoogleDocs-Clone)
 
