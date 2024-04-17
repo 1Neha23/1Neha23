@@ -8,7 +8,19 @@
 
 - 🔭 I’m currently working on [Google Docs Clone](https://github.com/1Neha23/GoogleDocs-Clone)
 
-- 🌱 I’m currently learning **  Java 8+, Spring DI, Spring MVC, REST, JMS, Hibernate, JDBC, PL/SQL, Design Patterns, Reactjs **
+- 🌱 I’m currently working on  **
+- 🎯 Programming Languages
+• Core Java/J2EE ( Java8 )
+•🎯 Frameworks & Libraries
+• Frontend - HTML5 ,React Js, CSS , Bootstrap , Materalize
+CSS , Material UI
+• Backend - Spring , SpringBoot , Spring MVC , SpringDataJpa
+, Restful API , Hibernate , MicroServices , Design Pattern ,
+java Collections , Multithreading , Servlet , AWS
+• 🎯 Database - SQL , Mysql , Oracle , PostgreSQL
+• 🎯 Tools - Maven, Git , STS , PostMan , Tomcat Server , CI/CD
+• Course Work
+• OOPS , RDBMS  **
 
 - 👯 I’m looking to collaborate on [Google Docs Clone](https://github.com/1Neha23/GoogleDocs-Clone)
 
