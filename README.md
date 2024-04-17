@@ -10,23 +10,30 @@
 
 - 🌱 I’m currently working on <br> **
 - 🎯 Programming Languages
-• Core Java/J2EE ( Java8 )
+ 📌 Core Java/J2EE ( Java8 )
 <br>
 •🎯 Frameworks & Libraries
 <br>
-• Frontend - HTML5 ,React Js, CSS , Bootstrap , Materalize
+📌 Frontend -
+<br>HTML5 ,React Js, CSS , Bootstrap , Materalize
 CSS , Material UI
 <br>
-• Backend - Spring , SpringBoot , Spring MVC , SpringDataJpa
+📌 Backend -
+<br>Spring , SpringBoot , Spring MVC , SpringDataJpa
 , Restful API , Hibernate , MicroServices , Design Pattern ,
 java Collections , Multithreading , Servlet , AWS
 <br>
-• 🎯 Database - SQL , Mysql , Oracle , PostgreSQL
+• 🎯 Database -
 <br>
-• 🎯 Tools - Maven, Git , STS , PostMan , Tomcat Server , CI/CD
+SQL , Mysql , Oracle , PostgreSQL
 <br>
-• Course Work
-• OOPS , RDBMS
+• 🎯 Tools -
+<br>
+Maven, Git , STS , PostMan , Tomcat Server , CI/CD
+<br>
+• 🎯 Course Work
+<br>
+ 📌 OOPS , RDBMS
 <br>
 **
 
