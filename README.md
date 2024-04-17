@@ -35,7 +35,60 @@ Maven, Git , STS , PostMan , Tomcat Server , CI/CD
 <br>
  📌 OOPS , RDBMS
 <br>
+
 **
+<ul>
+        <li>Programming Languages</li>
+        <li>Core Java/J2EE (Java8)</li>
+        <li>Frameworks & Libraries</li>
+        <ul>
+            <li>Frontend</li>
+            <ul>
+                <li>HTML5</li>
+                <li>React Js</li>
+                <li>CSS</li>
+                <li>Bootstrap</li>
+                <li>Materialize CSS</li>
+                <li>Material UI</li>
+            </ul>
+            <li>Backend</li>
+            <ul>
+                <li>Spring</li>
+                <li>SpringBoot</li>
+                <li>Spring MVC</li>
+                <li>Spring Data JPA</li>
+                <li>Restful API</li>
+                <li>Hibernate</li>
+                <li>Microservices</li>
+                <li>Design Pattern</li>
+                <li>Java Collections</li>
+                <li>Multithreading</li>
+                <li>Servlet</li>
+                <li>AWS</li>
+            </ul>
+        </ul>
+        <li>Database</li>
+        <ul>
+            <li>SQL</li>
+            <li>MySQL</li>
+            <li>Oracle</li>
+            <li>PostgreSQL</li>
+        </ul>
+        <li>Tools</li>
+        <ul>
+            <li>Maven</li>
+            <li>Git</li>
+            <li>STS (Spring Tool Suite)</li>
+            <li>Postman</li>
+            <li>Tomcat Server</li>
+            <li>CI/CD</li>
+        </ul>
+        <li>Course Work</li>
+        <ul>
+            <li>OOPS (Object-Oriented Programming)</li>
+            <li>RDBMS (Relational Database Management System)</li>
+        </ul>
+    </ul>
 
 - 👯 I’m looking to collaborate on [Google Docs Clone](https://github.com/1Neha23/GoogleDocs-Clone)
 
