@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Google Docs Clone](https://github.com/1Neha23/GoogleDocs-Clone)
 
-- 🌱 I’m currently learning **SpringBoot , Spring MVC, Spring Data JPA, Hibernate, RestFul API, Docker, Kubernetes**
+- 🌱 I’m currently learning **  Java 8+, Spring DI, Spring MVC, REST, JMS, Hibernate, JDBC, PL/SQL, Design Patterns, Reactjs **
 
 - 👯 I’m looking to collaborate on [Google Docs Clone](https://github.com/1Neha23/GoogleDocs-Clone)
 
